@@ -50,20 +50,5 @@ Features: Sepal length, sepal width, petal length, petal width
 
 Target: Iris species (setosa, versicolor, virginica)
 
-📦 Packaging for Submission
-To submit this project:
-
-Ensure the following files are present:
-
-main.py
-
-iris_model.pkl
-
-README.md
-
-Zip the folder:
-
-bash
-zip -r iris_classifier.zip iris_classifier/
 🙋 Author
-Name: Sachin Course: Intelligent Systems University ID: [Add your ID here if required]
+Name: Sachin Course: Intelligent Systems University ID: ITBIN-2211-0038
